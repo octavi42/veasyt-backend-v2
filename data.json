@@ -1,0 +1,81 @@
+{
+    "users": [
+      {
+          "name": "Alice",
+          "email": "alice@example.com",
+          "age": 28,
+          "condition": [
+            {"name": "Blind",
+            "needs": ["asisstant"]},
+            {
+              "name": "Not hearing",
+              "needs": ["asisstant"]
+            }
+          ],
+          "id": "cj3e5t5e40000117unf5c8zsd"
+      },
+      {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "age": 28,
+        "condition": [
+          {"name": "Cannot Walk",
+          "needs": [
+              "ramps", "special bathroom"
+          ]}
+        ]
+        ,
+        "id": "cj3e5t5e50000217uy9z2yx2r"
+      },
+      {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "age": 28,
+        "condition": [
+          {"name": "Cannot Walk",
+          "needs": ["ramps", "bathroom"]}
+        ],
+        "id": "cj3e5t5e60000317utk4tn3zz"
+      },
+      {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "age": 28,
+        "condition": [{
+          "name": "Cannot Walk",
+          "needs": ["ramps", "bathroom"]
+        }],
+        "id": "cj3e5t5e70000417uwsf9zzzz"
+      },
+      {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "age": 28,
+        "condition": [{
+          "name": "Blind",
+          "needs": ["asisstant"]
+        }],
+        "id": "cj3e5t5e80000517uwzqzf3zz"
+      },
+      {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "age": 28,
+        "condition": [{
+          "name": "Cannot Walk",
+          "needs": "ramps bathroom"
+        }],
+        "id": "cj3e5t5e90000617uv5r5zzzz"
+      },
+      {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "age": 28,
+        "condition": [{
+          "name": "Cannot Walk",
+          "needs": "ramps bathroom"
+        }],
+        "id": "cj3e5t5ea0000717uyn4fzzzz"
+      }
+    ]
+  }
